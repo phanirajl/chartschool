@@ -1,6 +1,6 @@
 # chartschool
 
-## Final/joined PDF still not verified! 
+## Final/merged PDF still not verified! 
 
 Support my work
 
